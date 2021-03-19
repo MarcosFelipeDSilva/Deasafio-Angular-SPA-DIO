@@ -1,0 +1,9 @@
+.toolbar {
+  height: 10px;
+}
+
+.row {
+  padding-top: 0.5em;
+  padding-left: 45%;
+  font-size: 30px;
+}
